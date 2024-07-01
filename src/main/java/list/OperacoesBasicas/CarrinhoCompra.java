@@ -2,7 +2,6 @@ package main.java.list.OperacoesBasicas;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.SplittableRandom;
 
 public class CarrinhoCompra{
     private List<Carrinho> carrinhoList;
